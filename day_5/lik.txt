@@ -1,0 +1,8 @@
+nltk-
+https://www.machinelearningplus.com/nlp/natural-language-processing-guide/
+
+regex-
+
+https://www.analyticsvidhya.com/blog/2021/11/pattern-library-for-natural-language-processing-in-python/
+
+https://www.machinelearningplus.com/spacy-tutorial-nlp/

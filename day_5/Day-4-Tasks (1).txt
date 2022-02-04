@@ -1,0 +1,5 @@
+Tasks :-
+
+1. Convert this Json into Pandas Dataframe.
+2. Extract the Email, Contact Number, Dates from the Text using Regex and store them in a DataFrame.
+3. Preprocess the text Using NLTK, Implement all the learning and store the clean text in a DataFrame.
